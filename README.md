@@ -87,7 +87,7 @@ http://localhost
   - [php](https://hub.docker.com/_/php):8.3-fpm-bullseye
   - [composer](https://hub.docker.com/_/composer):2.6
 
-### web container
+### web container 
 
 - Base image
   - [nginx](https://hub.docker.com/_/nginx):1.25
